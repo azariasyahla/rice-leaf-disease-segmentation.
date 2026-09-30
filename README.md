@@ -2,6 +2,10 @@
 
 Notebook penelitian untuk membandingkan U-Net, PSPNet, dan DeepLabV3+ dalam mengidentifikasi area penyakit pada daun padi dan menganalisis tingkat keparahannya. Kode berasal dari proyek skripsi Azaria Syahla Fitan Adibah. Versi ini mempertahankan kode notebook yang diterima; hanya output eksekusi yang dihapus agar repo lebih ringan dan tidak menampilkan isi Google Drive.
 
+## Publikasi
+
+Azaria Syahla Fitan Adibah, Riskyana Dewi Intan Puspitasari, dan Elly Matul Imah (2026). [*Performance Evaluation of Semantic Segmentation Architectures for Rice Leaf Disease Segmentation*](https://ejournal.unesa.ac.id/index.php/rapids/article/view/78173). **Jurnal Riset Aplikasi Ilmu Data dan Sistem**, 1(1), 17–32.
+
 ## Isi repositori
 
 | Notebook | Framework | Arsitektur |
@@ -67,4 +71,4 @@ Tingkat keparahan dihitung dari perbandingan luas area terinfeksi dengan luas ar
 
 ## Status
 
-Repositori ini adalah paket kode penelitian dengan contoh visualisasi. Tambahkan tautan dataset dan sitasi publikasi/skripsi setelah diverifikasi sebelum menjadikannya portofolio publik final.
+Repositori ini adalah paket kode penelitian dengan contoh visualisasi. Tambahkan tautan dataset yang tepat setelah diverifikasi sebelum menjadikannya portofolio publik final.
